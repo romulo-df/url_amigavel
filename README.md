@@ -10,4 +10,10 @@ Definir as configurações do usuário
 Baixar os arquivos
 ### git clone --branch <branch_name> <repository_url>
 ### git clone --branch 1.0 https://github.com/romulo-df/url_amigavel.git
-### git pull # quando o arquivo estiver sido modificado no github e não na máquina
+
+Verificar a branch
+### git branch
+
+Baixar as atualizações
+### git pull
+
